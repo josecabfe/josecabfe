@@ -17,7 +17,7 @@ Aeronautical Engineer by training, currently a **Process & Systems Specialist**.
 
 | Project | Data work | Result |
 |---|---|---|
-| [**Recording a course payment went from 5 minutes to under 1**](https://josecabfe.github.io/payments-invoicing-case-study/) | Bank reconciliation, validation rules, data synced across 3 sheets | 150+ payments in its first 10 days, used daily by a non-technical team |
+| [**How I optimized a payment process from 5 minutes to under 1**](https://josecabfe.github.io/payments-invoicing-case-study/) | Bank reconciliation, validation rules, data synced across 3 sheets | 150+ payments in its first 10 days, used daily by a non-technical team |
 | [**From storm-damaged paper to records found in seconds**](https://josecabfe.github.io/storm-proof-records/) | Data migration, transcription rules, automated quality checks | ~1,550 records digitized and searchable |
 
 Each page includes an interactive demo with fictional data.
